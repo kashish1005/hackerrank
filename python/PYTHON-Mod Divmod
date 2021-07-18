@@ -1,0 +1,10 @@
+
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+a=input()
+b=input()
+d=a//b
+m=a%b
+s=divmod(a,b)
+print(d)
+print(m)
+print(s)
